@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/https//ayan25manna.github.io/weatherApp/static/css/main.711904d3.css",
+    "main.js": "/https//ayan25manna.github.io/weatherApp/static/js/main.113c55e9.js",
+    "static/js/453.0ccb7fb4.chunk.js": "/https//ayan25manna.github.io/weatherApp/static/js/453.0ccb7fb4.chunk.js",
+    "static/media/night_snow.png": "/https//ayan25manna.github.io/weatherApp/static/media/night_snow.65b80d24f57d3a8ffc51.png",
+    "index.html": "/https//ayan25manna.github.io/weatherApp/index.html",
+    "main.711904d3.css.map": "/https//ayan25manna.github.io/weatherApp/static/css/main.711904d3.css.map",
+    "main.113c55e9.js.map": "/https//ayan25manna.github.io/weatherApp/static/js/main.113c55e9.js.map",
+    "453.0ccb7fb4.chunk.js.map": "/https//ayan25manna.github.io/weatherApp/static/js/453.0ccb7fb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.711904d3.css",
+    "static/js/main.113c55e9.js"
+  ]
+}
