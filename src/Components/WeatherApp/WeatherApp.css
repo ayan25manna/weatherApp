@@ -24,7 +24,9 @@ body{
 .top-bar input{
     display: flex;
     width: 260px;
+    /* max-width: 150px; */
     height: 60px;
+    /* max-height: 20px; */
     /* background: #ebfffc; */
     background-color: rgb(255, 255, 255, 0.5);
     border: none;
@@ -38,7 +40,9 @@ body{
     display: flex;
     justify-content: center;
     width: 60px;
+    /* max-width: 20px; */
     height: 60px;
+    /* max-height: 20px; */
     border-radius: 40px;
     background-color: rgb(255, 255, 255, 0.5);
     align-items: center;
@@ -99,12 +103,20 @@ body{
 
 @media screen and (max-width: 678px) {
     .container{
-        margin-top: 15px;
+        margin-top: 12px;
     }
-    .weather_temp {
-        font-size:45px;
+    .weather_temp .location{
+        font-size:35px;
         }
         .text .data{
-        font-size:15px;
+        font-size:8px;
+    }
+    .top-bar input{
+        height: 20px;
+        width: 150px;
+    }
+    .search-icon{
+        height: 20px;
+        width: 20px;
     }
 }
